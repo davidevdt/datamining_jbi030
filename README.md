@@ -19,6 +19,7 @@ Networks part). Notice that `scikit-learn` requires the installation of other pa
  * numpy
  * pandas 
  * matplotlib
+ 
 See the file `requirements.pdf` for further information. 
 
 ## Relevant Material
