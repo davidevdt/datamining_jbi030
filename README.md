@@ -1,7 +1,7 @@
 # JBI030: Data Mining course material
 
 In this repository, you can find the course material - including *jupyter notebooks* - concerning my lectures 
-@Data Mining (JBI030) bachelor course for the Data Science program (Eindhoven/Tilburg University).
+in the Data Mining (JBI030) bachelor course, for the Data Science program (Eindhoven/Tilburg University).
 
 In particular, my part of the course will cover: 
  1. Data Preprocessing
