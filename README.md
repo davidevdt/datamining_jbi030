@@ -29,7 +29,7 @@ of its functions.
 
 Other suggested readings for more detailed insights are: 
  * [DATA MINING: Practical Machine Learning Tools and Techniques](https://www.cs.waikato.ac.nz/ml/weka/book.html)
- * [Introuction to Statistical Learning - With applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/)
+ * [Introduction to Statistical Learning - With applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/)
  
 
 ## Cloning the repository
