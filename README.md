@@ -30,7 +30,6 @@ of its functions.
 Other suggested readings for more detailed insights are: 
  * [DATA MINING: Practical Machine Learning Tools and Techniques](https://www.cs.waikato.ac.nz/ml/weka/book.html)
  * [Introuction to Statistical Learning - With applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/)
- * [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do%3E)
  
 
 ## Cloning the repository
