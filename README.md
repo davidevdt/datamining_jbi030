@@ -30,7 +30,8 @@ of its functions.
 Other suggested readings for more detailed insights are: 
  * [DATA MINING: Practical Machine Learning Tools and Techniques](https://www.cs.waikato.ac.nz/ml/weka/book.html)
  * [Introduction to Statistical Learning - With applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/)
- 
+ * [Introuction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+ * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ## Cloning the repository
 To clone the repository into your local machine, you can run from terminal: 
