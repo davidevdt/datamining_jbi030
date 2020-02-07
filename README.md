@@ -20,7 +20,7 @@ Networks part). Notice that `scikit-learn` requires the installation of other pa
  * pandas 
  * matplotlib
  
-See the file `requirements.pdf` for further information. 
+See the file `JBI030_course_software.pdf` for further information. 
 
 ## Relevant Material
 The main reference for the course is the [scikit-learn documentation](https://scikit-learn.org/stable/tutorial/index.html),
