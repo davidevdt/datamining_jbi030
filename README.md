@@ -13,7 +13,7 @@ In particular, my part of the course will cover:
  1. Neural Networks 
  1. Ensemble Learning 
  
-During the lectures, I will present the theory of the listed models/techniqes. Jupyter notebooks contain the relevant `python`
+During the lectures, I will present the theory of the listed models/techniques. Jupyter notebooks contain the relevant `python`
 code needed to run such methods. In particular, we will make use of the `scikit-learn` package (and `Keras`, for the Neural
 Networks part). Notice that `scikit-learn` requires the installation of other packages, among which the main ones are: 
  * numpy
